@@ -1,0 +1,6 @@
+Flask==2.2.2
+Flask_JWT_Extended==4.4.4
+Flask_MonitoringDashboard==3.1.1
+Flask_PyMongo==2.3.0
+pymongo==4.3.3
+python-dotenv==1.0.0
